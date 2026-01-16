@@ -1,0 +1,8 @@
+
+{
+  "name": "MedLens AI - Lab Report Decoder",
+  "description": "A sophisticated lab report analyzer that translates complex medical data into human-friendly insights using Gemini AI. Features secure storage, history tracking, and interactive analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
